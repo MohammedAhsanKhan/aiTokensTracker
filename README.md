@@ -5,6 +5,7 @@
 2. Install these dependencies: 
  pip install pyTelegramBotAPI fastapi mysql-connector-python
 
-3. Add your telegram Token in the telegram_bot.py file
-4. run the main.py using python main,py command.
+4.  Create your telegram channel and your telegram Token in the telegram_bot.py file
+   
+5. run the main.py using python main,py command.
 
