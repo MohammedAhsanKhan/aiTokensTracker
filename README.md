@@ -1,7 +1,7 @@
 ## 📦 Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/aitTokensTracker.git
+   (https://github.com/MohammedAhsanKhan/aiTokensTracker.git)
 2. Install these dependencies: 
  pip install pyTelegramBotAPI fastapi mysql-connector-python
 
